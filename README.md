@@ -16,6 +16,6 @@ Pre-requisites : node.js should be installed , a CLI interface or command prompt
 5. Read the rules mentioned in the starting of the app carefully and play the quiz  
 
   Enjoy!
-  Also I would love to know about your experience and feedbacks, criticisms and suggestions regarding this app at my [Instagram Handle] (https://www.instagram.com/hnh013/)  
-  If you get a high score, do send me screenshot of your score at my [Instagram Handle] (https://www.instagram.com/hnh013/)
+  Also I would love to know about your experience and feedbacks, criticisms and suggestions regarding this app at my [Instagram Handle](https://www.instagram.com/hnh013/)  
+  If you get a high score, do send me screenshot of your score at my [Instagram Handle](https://www.instagram.com/hnh013/)
 
