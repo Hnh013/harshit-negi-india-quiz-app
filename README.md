@@ -3,7 +3,8 @@
 ### Welcome to the Know India Quiz!!
 
 Steps to run the CLI app on your Local machine/desktop : 
-Pre-requisites : node.js should be installed , a CLI interface or command prompt and a code editor
+Pre-requisites : node.js should be installed , a CLI interface or command prompt and a code editor    
+Play the quiz live at : https://replit.com/@HarshitNegi/harshit-negi-india-quiz-app?embed=1&output=1#index.js    
 
 1. Run the command on CLI/command prompt to clone the repo on your local machine in the directory of your choice  
      `git clone https://github.com/Hnh013/harshit-negi-india-quiz-app.git`
