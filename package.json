@@ -1,0 +1,23 @@
+{
+  "name": "harshit-negi-india-quiz-app",
+  "version": "1.0.0",
+  "description": "a small quiz about my ocuntry india",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hnh013/harshit-negi-india-quiz-app.git"
+  },
+  "author": "Harshit Negi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hnh013/harshit-negi-india-quiz-app/issues"
+  },
+  "homepage": "https://github.com/Hnh013/harshit-negi-india-quiz-app#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
