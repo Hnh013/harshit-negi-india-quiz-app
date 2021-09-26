@@ -15,7 +15,7 @@ Pre-requisites : node.js should be installed , a CLI interface or command prompt
      `node index.js`
 5. Read the rules mentioned in the starting of the app carefully and play the quiz  
 
-  Enjoy!
-  Also I would love to know about your experience, please send your feedbacks, criticisms and suggestions regarding this app at my [Instagram](https://www.instagram.com/hnh013/)  
-  If you get a high score, do send me screenshot of your score at my [Instagram](https://www.instagram.com/hnh013/) so I can update the Leaderboards.
+  Enjoy!  
+  Also I would love to know about your experience, please send your feedbacks, criticisms and suggestions regarding this app at my mail - techietypical@gmail.com   
+  If you get a high score, do send me screenshot of your score at my mail - techietypical@gmail.com so I can update your name in the Leaderboards.
 
